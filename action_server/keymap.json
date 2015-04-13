@@ -1,0 +1,14 @@
+{
+    "players":{
+        "1": {
+            "down":"down_arrow",
+            "left":"left_arrow",
+            "right":"right_arrow",
+            "up":"up_arrow",
+            "b":"c",
+            "a":"v",
+            "y":"x",
+            "x":"d"
+        }
+    }
+}

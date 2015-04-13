@@ -1,0 +1,12 @@
+{
+    "hadouken": {
+        "commands": [
+            { "key":"down", "wait": 0.0, "action":"down" },
+            { "key":"right", "wait": 0.05, "action":"down" },
+            { "key":"down", "wait": 0.05, "action":"up" },
+            { "key":"right", "wait": 0.05, "action":"up" },
+            { "key":"y", "duration": 0.1, "wait": 0.05, "action":"press" }
+        ],
+        "execution_time": 1.0
+    }
+}

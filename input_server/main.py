@@ -13,7 +13,6 @@ from responses import InvalidUsage
 import keys
 from keys import KEY
 
-
 def input_queue_thread(queue):
     for item in queue:
         wait = item.get('wait', 0)
