@@ -1,0 +1,10 @@
+Reading config file C:\Users\ChannelCat\Documents\GitHub\InputServer\snes9x/snes9x.conf.
+Saving	config file	C:\Users\ChannelCat\Documents\GitHub\InputServer\snes9x/snes9x.conf
+Sound buffer size: 8192 (2048 samples)
+No ROM file header found.
+Map_HiROMMap
+"Street Fighter2 Turbo1" [checksum ok] HiROM, 32Mbits, ROM, NTSC, SRAM:0Kbits, ID:B___, CRC32:A45CADD6
+Sound buffer size: 8192 (2048 samples)
+Saving	config file	C:\Users\ChannelCat\Documents\GitHub\InputServer\snes9x/snes9x.conf
+Sound buffer size: 8192 (2048 samples)
+Saving	config file	C:\Users\ChannelCat\Documents\GitHub\InputServer\snes9x/snes9x.conf
